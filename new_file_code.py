@@ -5,3 +5,5 @@ def new_function():
 
 
 print(new_function())
+
+print('я добавил изменения в код программы')
